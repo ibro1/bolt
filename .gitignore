@@ -23,6 +23,7 @@ dist-ssr
 *.sw?
 
 /.history
+/.husky
 /.cache
 /build
 .env.local
